@@ -2,7 +2,7 @@
 
 During spring 2023 spring semester, I'm currently teaching Caclulus I (Math-151C) as a part-time instructor at DePauw University. This class is a three credit class that teaches what you'd typically expect in a standard first semester of Calculus in college. In this class, we learn limits and continuity; the various definitions of a derivative; the power, product, quotient, and chain rule; implicit differentiation; related rates and optimization; the definition of integration; antiderivatives and the fundamental theorem of calculus; and u-substitution.
 
-My lecture notes for this class are divided by chapters on the book we use is the 4th edition of *Calculus* by J. Rogawski, C. Adams, and R. Franzosa, and note that this class is ongoing so only the notes for the first two Chapters have been completed, I have not started my Chapter 4 and 5 notes, yet, and the Chapter 3 notes are still in progress and I haven't published it, yet, as a PDF (though I have the math.ios file that I update live as the class goes on, which I'll use for reference until the Chapters gets done).
+My lecture notes for this class are divided by chapters on the book we use is the 4th edition of *Calculus by J. Rogawski, C. Adams, and R. Franzosa*, and note that this class is ongoing so only the notes for the first two Chapters have been completed, I have not started my Chapter 4 and 5 notes, yet, and the Chapter 3 notes are still in progress and I haven't published it, yet, as a PDF (though I have the math.ios file that I update live as the class goes on, which I'll use for reference until the Chapters gets done).
 
 As of 4/3/2023, here are my lecture notes:
 
