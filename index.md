@@ -1,19 +1,17 @@
-## M018 Basic Algebra for Finite Math Spring 2021 Lecture Notes
+## Math-151C Basic Algebra Calculus I DePauw University Spring 2023 Lecture Notes
 
-During the first spring 2021 eight week period, I was an assistant instructor for the Indiana University class Basic Algebra for Finite Math (M018). This class is a two credit prep course for Finite Math. In this class, we learn basic sets, basic counting, basic probability, algebra on linear equations, matrices, reduced row operations, inequalities, and linear programming.
+During spring 2023 spring semester, I'm currently teaching Caclulus I (Math-151C) as a part-time instructor at DePauw University. This class is a three credit class that teaches what you'd typically expect in a standard first semester of Calculus in college. In this class, we learn limits and continuity; the various definitions of a derivative; the power, product, quotient, and chain rule; implicit differentiation; related rates and optimization; the definition of integration; antiderivatives and the fundamental theorem of calculus; and u-substitution.
 
-My lecture notes for this class are more or less the same as my notes for when I taught the class during the previous semester during the Fall II period, so I refer you to the [Fall II notes](https://agoodlad-instructor-notes.github.io/m018-fall-ii-2020) for lectures there.
+My lecture notes for this class are divided by chapters on the book we use is the 4th edition of *Calculus* by J. Rogawski, C. Adams, and R. Franzosa, and note that this class is ongoing so only the notes for the first two Chapters have been completed, I have not started my Chapter 4 and 5 notes, yet, and the Chapter 3 notes are still in progress and I haven't published it, yet, as a PDF (though I have the math.ios file that I update live as the class goes on, which I'll use for reference until the Chapters gets done).
 
-In addition to the lecture notes, I also wrote up the following guides on how to do certain problems that I gave to the students to supplement my class notes
+As of 4/3/2023, here are my lecture notes:
 
-**Linear Equations**
+-[Chapter 1: Precalculus Review (1/31-2/7 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-1-lecture-notes.pdf)
 
--[The Complete Guide to Solving a Single-Variable Linear Equation](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-single-variable-linear-equation.pdf)
+-[Chapter 2: Limits (2/2-3/2 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-2-lecture-notes.pdf)
 
--[The Complete Guide to Solving a Two-Variable Linear System of Equations](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-two-variable-linear-system-of-equations.pdf)
+-[Chapter 3: Differentiation (3/2-3/21 lectures)](https://www.mathcha.io/editor/m7ZojhOwsvWhqp4Xx1f4wJEJwIWE95zmHqwYvp)
 
--[The Complete Guide to Solving a Matrix](https://agoodlad-instructor-notes.github.io/m018-spring-2021/the-complete-guide-to-solving-a-matrix.pdf)
+-Chapter 4: Applications of the Derivative (stay tuned!)
 
-**Sets**
-
--[A Guide to the Language of Sets](https://agoodlad-instructor-notes.github.io/m018-spring-2021/a-guide-to-the-language-of-sets.pdf)
+-Chapter 5: Integration (stay tuned!)
