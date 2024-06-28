@@ -10,7 +10,7 @@ As of 4/3/2023, here are my lecture notes:
 
 -[Chapter 2: Limits (2/2-3/2 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-2-lecture-notes.pdf)
 
--[Chapter 3: Differentiation (3/2-ongoing lectures)]([https://www.mathcha.io/editor/m7ZojhOwsvWhqp4Xx1f4wJEJwIWE95zmHqwYvp](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-3-lecture-notes.pdf))
+-[Chapter 3: Differentiation (3/2-4/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-3-lecture-notes.pdf))
 
 -[Chapter 4: Applications of the Derivative](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-4-lecture-notes.pdf)
 
