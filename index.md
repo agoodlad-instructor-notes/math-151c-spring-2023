@@ -12,6 +12,6 @@ As of 4/3/2023, here are my lecture notes:
 
 -[Chapter 3: Differentiation (3/2-4/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-3-lecture-notes.pdf)
 
--[Chapter 4: Applications of the Derivative](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-4-lecture-notes.pdf)
+-[Chapter 4: Applications of the Derivative (4/11-4/25 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-4-lecture-notes.pdf)
 
--[Chapter 5 and 6.1: Integration](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-5-and-6.1-lecture-notes.pdf)
+-[Chapter 5 and 6.1: Integration (5/2-5/11 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-5-and-6.1-lecture-notes.pdf)
