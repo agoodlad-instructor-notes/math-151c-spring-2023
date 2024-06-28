@@ -4,7 +4,7 @@ During spring 2023 spring semester, I'm currently teaching Caclulus I (Math-151C
 
 My lecture notes for this class are divided by chapters on the book we use is the 4th edition of *Calculus by J. Rogawski, C. Adams, and R. Franzosa*, and note that this class is ongoing so only the notes for the first two Chapters have been completed, I have not started my Chapter 4 and 5 notes, yet, and the Chapter 3 notes are still in progress and I haven't published it, yet, as a PDF (though I have the math.ios file that I update live as the class goes on, which I'll use for reference until the Chapters gets done).
 
-As of 4/3/2023, here are my lecture notes:
+Here are my lecture notes for this class:
 
 -[Chapter 1: Precalculus Review (1/31-2/7 lectures)](https://agoodlad-instructor-notes.github.io/math-151c-spring-2023/spring-2023-math-151C-chapter-1-lecture-notes.pdf)
 
