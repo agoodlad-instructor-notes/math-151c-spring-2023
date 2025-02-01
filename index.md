@@ -1,4 +1,4 @@
-## Math-151C Basic Algebra Calculus I DePauw University Spring 2023 Lecture Notes
+## Math-151C Calculus I DePauw University Spring 2023 Lecture Notes
 
 During the 2023 spring semester, I taught Caclulus I (Math-151C) as a part-time instructor at DePauw University. This class is a three credit class that teaches what you'd typically expect in a standard first semester of Calculus in college. In this class, we learn limits and continuity; the various definitions of a derivative; the power, product, quotient, and chain rule; implicit differentiation; related rates and optimization; the definition of integration; antiderivatives and the fundamental theorem of calculus; and u-substitution.
 
